@@ -1,0 +1,86 @@
+@charset "UFT-8";
+/* CSS Document */
+
+ul li {
+    margin-bottom: 4px;
+}
+
+body {
+    margin: 0;
+    background-image: url(../images/Background.jpg);
+    background-position: top center;
+}
+
+.topconent {
+    width: 1074px;
+    height: 358px;
+    margin: 0 auto 80 auto;
+}
+
+.logbox {
+    width: 1074px;
+    height: 116px;
+    text-align: center;
+    padding-top: 82px;
+}
+
+.introtext {
+    width: 1074px;
+    height: 184px;
+    text-align: center;
+    font-size: 82px;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+.introtext span {
+    color: #6a17e6;
+}
+
+.bottomcontent {
+    width: 1074px;
+    height: 352px;
+    margin: 0 auto 0 auto;
+}
+
+h1 {
+    margin: 30px 0px 30px 0px;
+    text-align: center;
+    text-transform: uppercase;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: #bd7219;
+}
+
+h2 {
+    color: rgb(255, 2, 2);
+}
+
+.leftmod {
+    width: 355px;
+    height: 355px;
+    background-color: rgba(64,64,64,.4);
+    float: left;
+    text-align: center;
+}
+
+.centermod {
+    width: 355px;
+    height: 355px;
+    background-color: rgba(64,64,64,.4);
+    float: left;
+    margin: 0px 35px 0px 35px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.centermod span {
+    color: rgb(0, 204, 255);
+    font-size: 13px;
+}
+
+.rightmod {
+    width: 355px;
+    height: 355px;
+    background-color: rgba(64,64,64,.4);
+    float: left;
+    text-align: center;
+}
